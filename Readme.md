@@ -1,3 +1,3 @@
 Respositório da Peteka
 <hr>
-Veja mais em [github.com/leohenri/](https://github.com/leohenri/)
+Veja mais em [Github Léo](https://github.com/leohenri/)
